@@ -1,6 +1,6 @@
 # Hi Everyone
 
-Hi!
+Do you know it?
 
 WITH ToLearn AS (
   SELECT ROW_NUMBER() OVER (ORDER BY Keyword) AS N, *
